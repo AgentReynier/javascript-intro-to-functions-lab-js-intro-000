@@ -24,4 +24,3 @@ function sayHiToGrandma(string) {
   }
   if (lowercase.toLowerCase() )
 }
-
