@@ -22,13 +22,24 @@ function sayHiToGrandma(string) {
   var iLoveYou = 'I love you, Grandma.'
 
   if (lowercase.toLowerCase() === lowercase) {
-    return "I can't hear you!"
+    return "I can't hear you!";
 
   } else if (uppercase.toUpperCase() === uppercase) {
-      return "YES INDEED!"
+      return "YES INDEED!";
 
   } else if (string = iLoveYou) {
-      return "I love you, too."
+      return "I love you, too.";
+
+  }
+
+}
+
+function sayHiToGrandma(string) {
+
+  var uppercase = 'HELLO'
+
+  if (uppercase.toUppercase() === uppercase) {
+    return "YES INDEED!"
 
   }
 
